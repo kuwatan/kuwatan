@@ -1,3 +1,4 @@
+#requestsモージュールを使用しています
 import requests
 
 #JSONデータ取得
